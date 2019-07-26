@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="14dp">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/steps_description"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+
+        android:text="text"
+
+        android:padding="20dp"
+
+        />
+
+</LinearLayout>
